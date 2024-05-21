@@ -1,1 +1,1 @@
-<h1>Landamrk website created with HTML and CSS programming language to show case my DevOps hands-on experience</h1> 
+<h1>Landmark website created with images, HTML and CSS programming language to show case my "DevOps Engineer" Agile CI/CD hands-on experience</h1> 
