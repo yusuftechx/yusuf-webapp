@@ -10,7 +10,7 @@
   <body>  
     <nav>
       <div class="logo">
-        <h3>Yusuf Agbeleshola DevOps Project v1 </h3>
+        <h3>YusufTechX DevOps Project v1 </h3>
       </div>
       <div class="navigation-bar">
         <ul>
