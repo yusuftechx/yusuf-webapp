@@ -10,7 +10,7 @@
   <body>  
     <nav>
       <div class="logo">
-        <h3>YusufTechX DevOps CI Project v1 </h3>
+        <h3>YusufTechX DevOps CI Project v2 </h3>
       </div>
       <div class="navigation-bar">
         <ul>
